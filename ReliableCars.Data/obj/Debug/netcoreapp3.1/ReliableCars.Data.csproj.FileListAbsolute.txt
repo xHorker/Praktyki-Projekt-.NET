@@ -1,0 +1,10 @@
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\bin\Debug\netcoreapp3.1\ReliableCars.Data.deps.json
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\bin\Debug\netcoreapp3.1\ReliableCars.Data.dll
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\bin\Debug\netcoreapp3.1\ReliableCars.Data.pdb
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.dll
+C:\Users\Kacper\Desktop\Foldery\Code\.Net\Praktyki\ReliableCars\ReliableCars.Data\obj\Debug\netcoreapp3.1\ReliableCars.Data.pdb
